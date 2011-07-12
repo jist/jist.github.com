@@ -4,7 +4,7 @@ The lovechild of gist.github.com & jsbin.com... kinda.
 
 For now this is just a placeholder repo.  
 
-I hope to build a light-weight jsbin.com style editor that uses gist.github.com for it's backend. I would like the editor/previewer to be embedable so you can fork, edit & preview Gist snippets anywhere.
+I hope to build a light-weight [jsbin.com](http://jsbin.com) style editor that uses [gist.github.com](https://gist.github.com) for it's backend. I would like the editor/previewer to be embedable so you can fork, edit & preview Gist snippets anywhere.
 
 Gist: https://gist.github.com/  
 JS Bin: http://jsbin.com/  
